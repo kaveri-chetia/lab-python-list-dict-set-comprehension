@@ -1,0 +1,6 @@
+def calculate_statistics(data):
+   return mean
+    
+
+data=int(input("Enter the numrical values"))
+   calculate_statistics(data)
